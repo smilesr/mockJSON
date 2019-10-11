@@ -1,11 +1,34 @@
 {
-    "posts": [
-      {
-        "id": 1,
-        "title": "hello"
-      }
+    [
+        "posts":
+        [
+            {
+                "id": 1,
+                "title": "hello"
+            },
+            {
+                "id": 2,
+                "title":"bello"
+            },
+        ],
+        "profile": {
+            "name": "somewhere"
+        }
     ],
-    "profile": {
-      "name": "somewhere"
-    }
+    [
+        "posts":
+        [
+            {
+                "id": 1,
+                "title": "jello"
+            },
+            {
+                "id": 2,
+                "title":"mello"
+            },
+        ],
+        "profile": {
+            "name": "nowhere"
+        }
+    ]
 }
