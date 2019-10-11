@@ -1,5 +1,4 @@
 {
-    [
         "posts":
         [
             {
@@ -14,8 +13,8 @@
         "profile": {
             "name": "somewhere"
         }
-    ],
-    [
+},
+{
         "posts":
         [
             {
